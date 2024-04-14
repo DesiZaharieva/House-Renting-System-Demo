@@ -1,0 +1,13 @@
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Release\net6.0\HouseRentingSystem.Services.deps.json
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Release\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Release\net6.0\HouseRentingSystem.Services.dll
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Release\net6.0\HouseRentingSystem.Services.pdb
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.sourcelink.json
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.dll
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.pdb
+D:\Back-End Test Automation - March 2024\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Release\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
